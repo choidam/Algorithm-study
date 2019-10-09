@@ -31,5 +31,18 @@ string solution(string s) {
 ## screenshot
 ![screenshot](./screenshots/programmers_가운데글자가져오기.png)
 
+## 반성
+string 관련 함수에 대해 다시 정리할 필요가 있다 ..
+
+```c++
+s.length(); // string 길이 반환
+
+s.at(idx); // string 의 특정 문자 반환. 리턴 타입이 char (이거 때문에 약간 삽질을 했다..)
+
+string char2str(1, character); // char -> stirng 형변환
+
+```
+
+
 ## 참고자료
-없음
+- 없음
