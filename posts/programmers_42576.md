@@ -2,6 +2,8 @@
 - 프로그래머스 : 완주하지 못한 선수
 - https://programmers.co.kr/learn/courses/30/lessons/42576
 
+<br/>
+
 ## 풀이1
 ```c++
 #include <string>
@@ -38,6 +40,9 @@ string solution(vector<string> participant, vector<string> completion) {
 - 정확성은 만점이지만, 효율성은 0점이다 .. 
 
 
+<br/>
+
+
 ## 풀이2
 ```c++
 #include <string>
@@ -63,10 +68,13 @@ string solution(vector<string> participant, vector<string> completion) {
 - 코드가 훨씬 간결해짐을 확인할 수 있다.
 - 정확성, 효율성 모두 만점이다.
 
+<br/>
 
 ## 반성
 - vector 관련 함수에 대해 다시 정리해야 할 필요가 있다.
 - 효율성이 낮은 함수는 사용을 자제하자.
+
+<br/>
 
 ## 참고자료
 - https://blockdmask.tistory.com/70
