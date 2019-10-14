@@ -1,2 +1,4 @@
-# Algorithm-study
-알고리즘 스터디
+# Algorithm
+
+- 백준 풀이
+- 프로그래머스 풀이
