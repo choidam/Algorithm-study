@@ -34,6 +34,22 @@ string solution(vector<string> seoul) {
 
 <br/>
 
+## 반성
+
+- string 관련 내장 함수를 잘 기억 하자 
+
+```c++
+
+    a.compare(b) == 0 // 문자열이 같은 경우
+    
+    string str = to_string(i); // int to string 
+    
+```
+
+
+<br/>
+
+
 ## screenshot
 
 ![screenshot](./screenshots/prog_김서방.png)
