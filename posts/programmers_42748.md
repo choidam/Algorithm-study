@@ -10,6 +10,8 @@
 
 <br/>
 
+## 코드
+
 ```c++
 #include <algorithm>
 #include <vector>
