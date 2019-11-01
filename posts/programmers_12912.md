@@ -2,8 +2,12 @@
 - 프로그래머스 : 12912
 - https://programmers.co.kr/learn/courses/30/lessons/12912
 
+<br/>
+
 ## 풀이
 - min, max 값 정하고 더하기만 하면 된다!
+
+<br/>
 
 ## 코드
 ```c++
@@ -27,8 +31,12 @@ long long solution(int a, int b) {
 }
 ```
 
+<br/>
+
 ## screenshot
 ![screenshot](./screenshots/prog_12912.png)
+
+<br/>
 
 ## 참고자료
 - 없음
