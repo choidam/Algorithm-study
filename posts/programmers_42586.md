@@ -62,4 +62,4 @@ vector<int> solution(vector<int> progresses, vector<int> speeds) {
 
 ## screenshot
 
-<img src="./screenshots/prog_기능개발.png" width="600" height="200">
+<img src="./screenshots/prog_기능개발.png" width="600" height="280">
