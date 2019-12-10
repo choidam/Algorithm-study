@@ -49,6 +49,7 @@
 ## ✏️ &nbsp; programmers_level2
 
 - [프로그래머스_기능개발](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42586.md)
+- [프로그래머스_프린터](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42587.md)
  
 
 
