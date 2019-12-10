@@ -14,7 +14,7 @@
 <br/>
 
 
-## ✏️  baekjoon
+## ✏️ &nbsp; baekjoon
 
 - [백준_2178_미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
 - [백준_2667_단지번호_붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
@@ -23,7 +23,7 @@
 
 <br/>
 
-## ✏️  programmers_level1
+## ✏️ &nbsp; programmers_level1
 
 - [프로그래머스_가운데_글자_가져오기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12903.md)
 - [프로그래머스_완주하지_못한_선수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42576.md)
@@ -46,7 +46,7 @@
 <br/>
 
 
-## ✏️ programmers_level2
+## ✏️ &nbsp; programmers_level2
 
 - [프로그래머스_기능개발](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42586.md)
  
