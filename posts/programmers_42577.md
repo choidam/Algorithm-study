@@ -32,7 +32,7 @@ bool solution(vector<string> phone_book) {
 }
 ```
 
-<img src="./screenshots/prog_전화번호_실패.png" width="400" height="150">
+<img src="./screenshots/prog_전화번호_실패.png" width="600" height="150">
 
 - 에러 발생 ,,
 - 좀 더 간결한 코드가 필요한 것 같다
@@ -66,7 +66,7 @@ bool solution(vector<string> phone_book) {
 
 <img src="./screenshots/prog_전화번호_성공.png" width="600" height="280">
 
-- 성공 ‼️
+- 성공 ‼️‼️
 - ``` sort(phone_book.begin(), phone_book.end()); ``` 으로 먼저 정렬한 후, for문으로 비교를 시작한다.
 
    
