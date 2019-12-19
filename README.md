@@ -53,6 +53,7 @@
 - [프로그래머스_탑](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42588.md)
 - [프로그래머스_주식가격](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42584.md)
 - [프로그래머스_전화번호_목록](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42577.md)
+- [프록그래머스_최댓값과_최솟값](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12939.md)
  
 
 
