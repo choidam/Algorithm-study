@@ -10,6 +10,7 @@
 - 문서 생성은 [GFM (Github Flavored Markdown)](https://help.github.com/en/github/writing-on-github) 을 사용한다.
 - 문제를 다 풀었다는 화면캡쳐는 [screenshots](https://github.com/ChoiEunji0114/Algorithm-study/tree/master/posts/screenshots) 폴더에 저장한다. 
 - 문제 출저와 번호로 파일명을 만든다. (파일명은 영어로)
+- posts 폴더 안에 저장한다.
 
 <br/>
 
