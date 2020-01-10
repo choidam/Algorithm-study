@@ -5,7 +5,7 @@
 <br/>
 
 
-## 작성 규칙
+## 📌 &nbsp; 작성 규칙
 
 - 문서 생성은 [GFM (Github Flavored Markdown)](https://help.github.com/en/github/writing-on-github) 을 사용한다.
 - 문제를 다 풀었다는 화면캡쳐는 [screenshots](https://github.com/ChoiEunji0114/Algorithm-study/tree/master/posts/screenshots) 폴더에 저장한다. 
@@ -55,6 +55,7 @@
 - [프로그래머스_전화번호_목록](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42577.md)
 - [프로그래머스_최댓값과_최솟값](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12939.md)
 - [프로그래머스_H_Index](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42747.md)
+- [프로그래머스_124_나라의_숫자](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12899.md)
  
 
 
