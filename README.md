@@ -56,6 +56,7 @@
 - [프로그래머스_최댓값과_최솟값](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12939.md)
 - [프로그래머스_HIndex](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42747.md)
 - [프로그래머스_124_나라의_숫자](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12899.md)
+- [프로그래머스_가장_큰_수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42746.md)
  
 
 
