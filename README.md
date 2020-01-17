@@ -19,6 +19,7 @@
 - [백준_2178_미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
 - [백준_2667_단지번호_붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
 - [백준_7576_토마토](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7576.md)
+- [백준_1260_DFS와_BFS](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1260.md)
 
 
 <br/>
