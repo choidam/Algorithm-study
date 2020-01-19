@@ -19,6 +19,7 @@
 - [백준_2178_미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
 - [백준_2667_단지번호_붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
 - [백준_7576_토마토](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7576.md)
+- [백준_1260_DFS와_BFS](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1260.md)
 
 
 <br/>
@@ -60,6 +61,7 @@
 - [프로그래머스_타겟_넘버](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_43165.md)
 - [프로그래머스_카펫](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42842.md)
 - [프로그래머스_다음_큰_숫자](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12911.md)
+- [프로그래머스_서머코딩/윈터코딩(~2018)_스킬트리](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_49993.md)
  
 
 
