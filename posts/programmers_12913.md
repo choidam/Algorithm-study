@@ -55,6 +55,7 @@ int solution(vector<vector<int> > land)
 ```
 - 위 경우에 내가 만든 알고리즘을 대입하면 5+5+4+9 = 19 가 답이 된다.
 - 사실 답은 1000을 고려한 5+7+3+1000 = 1013 이어야 한다. (그래서 DP인 것 같다..)
+- 첫 행부터 차례차례 순회하는 것이 문제이다.
 
 <br/><br/>
 
@@ -123,16 +124,11 @@ int solution(vector<vector<int> > land)
 
 이므로 답은 1015 가 무사히 나온다.
 
- ![screenshot](./screenshots/prog_땅따먹기.png)
+ <img src="./screenshots/prog_땅따먹기.png" width="600" height="280">
  
  - 결과 성공 〰️‼️
  
- 
- 
  <br/>
- 
- 
- 
  
  ## 반성
  - 쉬운 문제도 다시 보자 ,, 😔
