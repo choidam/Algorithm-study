@@ -65,6 +65,7 @@
 - [프로그래머스_서머코딩/윈터코딩(~2018)_스킬트리](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_49993.md)
 - [프로그래머스_숫자의_표현](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12924.md)
 - [프로그래머스_땅따먹기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12913.md)
+- [프로그래머스_위장](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42578.md)
  
 
 <br/>
