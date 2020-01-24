@@ -73,12 +73,11 @@ string solution(string s) {
 }
 ```
 
-<br/>
-
 - 훨씬 간결해진 코드이다.
 - 문자열을 split 하지 않고 전 문자가 공백인 경우(첫 문자인 경우) 에만  ```toupper()``` 으로 대문자로 변환하고, 공백이 아닌 경우 (첫 문자가 아닌 경우) 
 ```tolower()``` 으로 소문자로 변환한다.
 
+<br/>
 
  <img src="./screenshots/prog_jaden_성공.png" width="600" height="380">
  
