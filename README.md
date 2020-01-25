@@ -22,6 +22,7 @@
 - [백준_1260_DFS와_BFS](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1260.md)
 - [백준_1697_숨바꼭질](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1697.md)
 - [백준_1463_1로_만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1463.md)
+- [백준_9095_1_2_3_더하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9095.md)
 
 
 <br/>
