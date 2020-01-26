@@ -24,6 +24,7 @@
 - [백준_1463_1로_만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1463.md)
 - [백준_9095_1_2_3_더하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9095.md)
 - [백준_1003_피보나치_함수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1003.md)
+- [백준_2579_계단_오르기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2579.md)
 
 
 <br/>
