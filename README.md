@@ -28,6 +28,7 @@
 - [백준_1149_RGB거리](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1149.md)
 - [백준_1012_유기농_배추](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1012.md)
 - [백준_11403_경로_찾기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11403.md)
+- [백준_11724_연결_요소의_개수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11724.md)
 
 <br/>
 
