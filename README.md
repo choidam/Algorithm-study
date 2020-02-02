@@ -31,6 +31,7 @@
 - [백준_11724_연결_요소의_개수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11724.md)
 - [백준_2583_영역_구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2583.md)
 - [백준_2468_안전_영역](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2468.md)
+- [백준_7562_나이트의_이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7562.md)
 
 <br/>
 
