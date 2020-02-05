@@ -34,6 +34,7 @@
 - [백준_7562_나이트의_이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7562.md)
 - [백준_10026_적록색약](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-10026.md)
 - [백준_1389_케빈_베이컨의_6단계_법칙](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1389.md)
+- [백준_2644_촌수계산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2644.md)
 
 <br/>
 
