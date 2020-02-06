@@ -35,6 +35,7 @@
 - [백준_10026_적록색약](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-10026.md)
 - [백준_1389_케빈_베이컨의_6단계_법칙](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1389.md)
 - [백준_2644_촌수계산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2644.md)
+- [백준_1987_알파벳](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1987.md)
 
 <br/>
 
