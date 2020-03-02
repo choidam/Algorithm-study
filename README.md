@@ -38,6 +38,7 @@
 - [백준_1987_알파벳](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1987.md)
 - [백준_2206_벽_부수고_이동하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2206.md)
 - [백준_2573_빙산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2573.md)
+- [백준_2146_다리_만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2146.md)
 
 
 <br/>
