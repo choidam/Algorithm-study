@@ -42,6 +42,7 @@
 - [백준_2309_일곱_난쟁이](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2309.md)
 - [백준_14501_퇴사](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14501.md)
 - [백준_9466_텀_프로젝트](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9466.md)
+- [백준_14502_연구소](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14502.md)
 
 
 <br/>
