@@ -43,6 +43,7 @@
 - [백준_14501_퇴사](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14501.md)
 - [백준_9466_텀_프로젝트](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9466.md)
 - [백준_14502_연구소](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14502.md)
+- [백준_1929_소수_구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1929.md)
 
 
 <br/>
