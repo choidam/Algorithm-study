@@ -93,6 +93,7 @@
 - [프로그래머스_JadenCase_문자열_만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12951.md)
 - [프로그래머스_2017 카카오예선_카카오프렌즈 컬러링북](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_1829.md)
 - [프로그래머스_소수찾기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42839.md)
+- [프로그래머스_서머코딩/윈터코딩(2019)_멀쩡한_사각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_62048.md)
  
 
 <br/>
