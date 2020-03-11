@@ -37,4 +37,4 @@ long long solution(int w,int h)
 
 ## screenshot
 
- <img src="./screenshots/prog_멀쩡한_.png" width="600" height="380"> 
+ <img src="./screenshots/prog_멀쩡한_사각형.png" width="600" height="380"> 
