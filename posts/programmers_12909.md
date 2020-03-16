@@ -47,6 +47,41 @@ bool solution(string s)
 
 <br/>
 
+근데 풀다가 문득 생각난건데 굳이 stack 을 써야 할 이유가 없다.. 숫자만 세도 충분하다.
+
+```c++
+#include<string>
+#include <iostream>
+
+using namespace std;
+
+bool solution(string s)
+{
+    int cnt = 0;
+    for(int i=0; i<s.size(); i++){
+        if( s.at(i)=='(' ){
+            cnt++;
+        } else {
+            if(cnt<=0){
+                return false;
+            } else {
+                cnt--;
+            }
+        }
+    }
+
+    if (cnt==0){
+        return true;
+    } else{
+        return false;
+    }
+}
+```
+
+stack 라이브러리를 불러오지 않아도 문제는 잘 풀린다❗️
+
+<br/>
+
 ## screenshot
 
  <img src="./screenshots/prog_올바른괄호.png" width="600" height="380"> 
