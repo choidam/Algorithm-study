@@ -95,6 +95,7 @@
 - [프로그래머스_소수찾기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42839.md)
 - [프로그래머스_서머코딩/윈터코딩(2019)_멀쩡한_사각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_62048.md)
 - [프로그래머스_N개의_최소공배수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12953.md)
+- [프로그래머스_올바른_괄호](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12909.md)
 
 <br/>
 <br/>
