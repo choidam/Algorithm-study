@@ -46,6 +46,7 @@
 - [백준_1929_소수_구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1929.md)
 - [백준_11399_ATM](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11399.md)
 - [백준_11047_동전0](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11047.md)
+- [백준_1931_회의실배정](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1931.md)
 
 
 <br/>
