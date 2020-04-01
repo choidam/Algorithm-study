@@ -48,6 +48,7 @@
 - [백준_11047_동전0](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11047.md)
 - [백준_1931_회의실배정](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1931.md)
 - [백준_5585_거스름돈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-5585.md)
+- [백준_2217_로프](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2217.md)
 
 
 <br/>
