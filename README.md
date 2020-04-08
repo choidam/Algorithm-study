@@ -53,7 +53,7 @@
 
 <br/>
 
-## ✏️ &nbsp; programmers_level1
+## ✏️ &nbsp; programmers
 
 - [프로그래머스_가운데_글자_가져오기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12903.md)
 - [프로그래머스_완주하지_못한_선수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42576.md)
@@ -70,14 +70,6 @@
 - [프로그래머스_2018_kakao_blind_recruiment_1차_다트게임](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_17682.md)
 - [프로그래머스_2019_kakao_blind_recruiment_실패율](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42889.md)
 - [프로그래머스_서머코딩/윈터코딩(~2018)_예산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42889.md)
-
-
-
-<br/>
-
-
-## ✏️ &nbsp; programmers_level2
-
 - [프로그래머스_기능개발](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42586.md)
 - [프로그래머스_프린터](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42587.md)
 - [프로그래머스_탑](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42588.md)
