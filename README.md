@@ -92,5 +92,6 @@
 - [서머코딩/윈터코딩(2019) 멀쩡한 사각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_62048.md)
 - [N개의 최소공배수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12953.md)
 - [올바른 괄호](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12909.md)
+- [행렬의 곱셈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12949.md)
 
 <br/>
