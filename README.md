@@ -50,6 +50,7 @@
 - [백준 5585: 거스름돈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-5585.md)
 - [백준 2217: 로프](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2217.md)
  - [백준 1932: 정수 삼각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1932.md)
+ - [백준 2156: 포도주 시식](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2156.md)
 
 <br/>
 
