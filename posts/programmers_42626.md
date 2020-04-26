@@ -7,11 +7,6 @@
 
 ## 풀이 1
 
-
-<br/> 
-
-## 코드
-
 ```c++
 #include <string>
 #include <vector>
@@ -47,7 +42,7 @@ int solution(vector<int> scoville, int K) {
 }
 ```
 
-<img src="./screenshots/prog_더맵게_err.png" width="300">
+<img src="./screenshots/prog_더맵게_err.png" width="200">
 
 - 처음에 while 문을 돌아가며 스코빌 지수를 섞고 `erase` 를 해주었으나 (해당 인덱스의 벡터 원소를 지움),   
 인덱스도 제대로 지정하기 힘들었고, 무엇보다 시간 초과 문제가 발생했다.
