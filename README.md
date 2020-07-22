@@ -97,5 +97,5 @@
 - [올바른 괄호](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12909.md)
 - [행렬의 곱셈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12949.md)
 - [더 맵게](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42626.md)
+- [구명보트](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42885.md)
 
-<br/>
