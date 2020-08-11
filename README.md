@@ -105,3 +105,4 @@
 - [하샤드 수 ](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12947.md)
 - [2020 카카오 인턴십 : 키패드 누르기 ](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_67256.md)
 - [다리를 지나는 트럭 ](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42583.md)
+- [2017 팁스타운 : 짝지어 제거하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12973.md)
