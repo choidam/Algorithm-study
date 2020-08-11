@@ -13,51 +13,56 @@
 
 <br/>
 
+<details>
+  <summary> Baekjoon </summary>
+ 
+ <br/>
+ 
+- [2178: 미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
+- [2667: 단지번호 붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
+- [7576: 토마토](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7576.md)
+- [1260: DFS와 BFS](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1260.md)
+- [1697: 숨바꼭질](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1697.md)
+- [1463: 1로 만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1463.md)
+- [9095: 1 2 3 더하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9095.md)
+- [1003: 피보나치 함수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1003.md)
+- [2579: 계단 오르기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2579.md)
+- [1149: RGB거리](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1149.md)
+- [1012: 유기농 배추](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1012.md)
+- [11403: 경로 찾기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11403.md)
+- [11724: 연결 요소의 개수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11724.md)
+- [2583: 영역 구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2583.md)
+- [2468: 안전 영역](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2468.md)
+- [7562: 나이트의 이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7562.md)
+- [10026: 적록색약](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-10026.md)
+- [1389: 케빈 베이컨의 6단계 법칙](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1389.md)
+- [2644: 촌수계산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2644.md)
+- [1987: 알파벳](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1987.md)
+- [2206: 벽 부수고 이동하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2206.md)
+- [2573: 빙산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2573.md)
+- [2146: 다리 만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2146.md)
+- [2309: 일곱 난쟁이](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2309.md)
+- [14501: 퇴사](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14501.md)
+- [9466: 텀 프로젝트](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9466.md)
+- [14502: 연구소](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14502.md)
+- [1929: 소수 구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1929.md)
+- [11399: ATM](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11399.md)
+- [11047: 동전0](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11047.md)
+- [1931: 회의실배정](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1931.md)
+- [5585: 거스름돈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-5585.md)
+- [2217: 로프](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2217.md)
+- [1932: 정수 삼각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1932.md)
+- [2156: 포도주 시식](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2156.md)
+- [1912: 연속합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1912.md)
+- [11559: Puyo puyo](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11559.md)
+   
+</details>
 
-## ✏️ &nbsp; baekjoon
-
-- [백준 2178: 미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
-- [백준 2667: 단지번호 붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
-- [백준 7576: 토마토](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7576.md)
-- [백준 1260: DFS와 BFS](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1260.md)
-- [백준 1697: 숨바꼭질](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1697.md)
-- [백준 1463: 1로 만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1463.md)
-- [백준 9095: 1 2 3 더하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9095.md)
-- [백준 1003: 피보나치 함수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1003.md)
-- [백준 2579: 계단 오르기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2579.md)
-- [백준 1149: RGB거리](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1149.md)
-- [백준 1012: 유기농 배추](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1012.md)
-- [백준 11403: 경로 찾기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11403.md)
-- [백준 11724: 연결 요소의 개수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11724.md)
-- [백준 2583: 영역 구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2583.md)
-- [백준 2468: 안전 영역](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2468.md)
-- [백준 7562: 나이트의 이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7562.md)
-- [백준 10026: 적록색약](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-10026.md)
-- [백준 1389: 케빈 베이컨의 6단계 법칙](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1389.md)
-- [백준 2644: 촌수계산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2644.md)
-- [백준 1987: 알파벳](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1987.md)
-- [백준 2206: 벽 부수고 이동하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2206.md)
-- [백준 2573: 빙산](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2573.md)
-- [백준 2146: 다리 만들기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2146.md)
-- [백준 2309: 일곱 난쟁이](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2309.md)
-- [백준 14501: 퇴사](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14501.md)
-- [백준 9466: 텀 프로젝트](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-9466.md)
-- [백준 14502: 연구소](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-14502.md)
-- [백준 1929: 소수 구하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1929.md)
-- [백준 11399: ATM](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11399.md)
-- [백준 11047: 동전0](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11047.md)
-- [백준 1931: 회의실배정](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1931.md)
-- [백준 5585: 거스름돈](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-5585.md)
-- [백준 2217: 로프](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2217.md)
- - [백준 1932: 정수 삼각형](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1932.md)
- - [백준 2156: 포도주 시식](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2156.md)
- - [백준 1912: 연속합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1912.md)
- - [백준 11559: Puyo puyo](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11559.md)
-
-<br/>
-
-## ✏️ &nbsp; programmers
-
+<details>
+  <summary> Programmers </summary>
+ 
+ <br/>
+ 
 - [가운데 글자 가져오기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12903.md)
 - [완주하지 못한 선수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42576.md)
 - [두 정수 사이의 합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12912.md)
@@ -106,3 +111,6 @@
 - [2020 카카오 인턴십 : 키패드 누르기 ](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_67256.md)
 - [다리를 지나는 트럭 ](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42583.md)
 - [2017 팁스타운 : 짝지어 제거하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12973.md)
+
+</details>
+
