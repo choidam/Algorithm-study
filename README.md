@@ -56,6 +56,7 @@
 - [1912: 연속합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1912.md)
 - [11559: Puyo puyo](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-11559.md)
 - [1182: 부분 수열의 합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1182.md)
+- [2606 : 바이러스](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2606.md)
 
 </details>
 
