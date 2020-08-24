@@ -19,6 +19,18 @@
 
 using namespace std;
 
+vector<int> push(int num, int n){
+    vector<int> ans;
+    if((num+1)%n==0) {
+        ans.push_back(n);
+        ans.push_back((num+1)/n);
+    } else {
+        ans.push_back((num+1)%n);
+        ans.push_back((num+1)/n+1);
+    }
+    return ans;
+}
+
 vector<int> solution(int n, vector<string> words) {
     vector<int> answer;
     
@@ -28,27 +40,13 @@ vector<int> solution(int n, vector<string> words) {
     for(int i=1; i<words.size(); i++){
         frontChar = words[i][0]; // 앞글자 update
         if(endChar!=frontChar){ // 앞글자-뒷글자 일치하지 않는 경우 처리
-            if((i+1)%n==0) {
-                answer.push_back(n);
-                answer.push_back((i+1)/n);
-            } else {
-                answer.push_back((i+1)%n);
-                answer.push_back((i+1)/n+1);
-            }
-            return answer;
+            return push(i,n);
         } else {
             endChar = words[i][words[i].length()-1]; // 뒷글자 update
             string tmpword = words[i];
             for(int j=0; j<i; j++){
                 if(tmpword==words[j]){
-                    if((i+1)%n==0) {
-                        answer.push_back(n);
-                        answer.push_back((i+1)/n);
-                    } else {
-                        answer.push_back((i+1)%n);
-                        answer.push_back((i+1)/n+1);
-                    }
-                    return answer;
+                    return push(i,n);
                 }
             }
         }
