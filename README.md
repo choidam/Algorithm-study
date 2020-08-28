@@ -1,9 +1,7 @@
 # Algorithm-study
 그동안 풀었던 알고리즘 문제와 풀이 기록 ✌️✌️
 
-
 <br/>
-
 
 ## 📌 &nbsp; 작성 규칙
 
@@ -116,6 +114,7 @@
 - [2017 팁스타운 : 짝지어 제거하기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12973.md)
 - [Summer/Winter Coding(~2018) : 점프와 순간 이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12980.md)
 - [Summer/Winter Coding(~2018) : 영어 끝말잇기 이동](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12981.md)
+- [Summer/Winter Coding(~2018) : 소수 만들기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_12977.md)
 
 </details>
 
