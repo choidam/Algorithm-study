@@ -117,6 +117,7 @@
 - [Summer/Winter Coding(~2018) : 소수 만들기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_12977.md)
 - [2018 kakao blind recruiment : 뉴스 클러스팅](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17677.md)
 - [2019 kakao blind recruiment : 오픈채팅방](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_42888.md)
+- [2019 팁스타운 : 예상 대진표](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_12985.md)
 
 </details>
 
