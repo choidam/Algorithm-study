@@ -90,7 +90,7 @@ vector<string> solution(vector<string> record) {
 
 ## 풀이2
 
-```swift
+```c++
 #include <string>
 #include <sstream>
 #include <map>
