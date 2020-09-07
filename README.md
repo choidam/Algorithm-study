@@ -122,6 +122,7 @@
 - [2018 kakao blind recruiment 3차 : 방금그곡](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17683.md)
 - [2018 kakao blind recruiment : 캐시](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17680.md)
 - [2018 kakao blind recruiment : 파일명 정렬](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17686.md)
+- [2018 kakao blind recruiment : 압축](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17684.md)
 
 </details>
 
