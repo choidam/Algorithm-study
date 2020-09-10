@@ -123,6 +123,7 @@
 - [2018 kakao blind recruiment : 캐시](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17680.md)
 - [2018 kakao blind recruiment : 파일명 정렬](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17686.md)
 - [2018 kakao blind recruiment : 압축](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_17684.md)
+- [2020 kakao blind recruiment : 괄호 변환](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_60058.md)
 
 </details>
 
