@@ -56,6 +56,7 @@
 - [1182: 부분 수열의 합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-1182.md)
 - [2606 : 바이러스](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2606.md)
 - [4963 : 섬의 개수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-4963.md)
+- [2748 : 피보나치 수 2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2748.md)
 
 </details>
 
