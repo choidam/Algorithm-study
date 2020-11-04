@@ -59,6 +59,7 @@
 - [2748 : 피보나치 수 2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2748.md)
 - [11053 : 가장 긴 증가하는 부분 수열](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11053.md)
 - [1753 : 최단경로](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1753.md)
+- [1916 : 최소비용 구하기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1916.md)
 
 </details>
 
