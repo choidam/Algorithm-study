@@ -7,6 +7,7 @@
 ## 풀이
 - 10진법을 3진법으로 뒤집어 변환한 후, 다시 10진법으로 변환하는 간단한 문제
 - 제곱수를 구하는 `pow(n1, n2)` 를 처음 사용했다. 기억해두자!
+- `char` 형을 `int` 형으로 변환하려면 `a-'0'` 을 사용하면 된다.
 
 
 <br/>
@@ -35,7 +36,7 @@ int solution(int n) {
     // 3진수 -> 10진수 변환
     int mulnum = 0; // 지수
     for(int i=base3str.length()-1; i>=0; i--){
-        int num = base3str[i]-'0';
+        int num = base3str[i]-'0'; // char to int
         int tmp = pow(3, mulnum);
         mulnum++;
         if(num>0){
