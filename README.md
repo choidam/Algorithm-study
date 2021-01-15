@@ -132,6 +132,7 @@
 - [단어 변환](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_43163.md)
 - [두 개 뽑아서 더하기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_68644.md)
 - [내적](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_70128.md)
+- [3진법 뒤집기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_68935.md)
 
 </details>
 
