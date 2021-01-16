@@ -133,6 +133,7 @@
 - [두 개 뽑아서 더하기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_68644.md)
 - [내적](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_70128.md)
 - [3진법 뒤집기](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_68935.md)
+- [2019 카카오 개발자 겨울 인턴십 : 튜플](https://github.com/choidam/Algorithm-study/blob/master/posts/programmers_64065.md)
 
 </details>
 
