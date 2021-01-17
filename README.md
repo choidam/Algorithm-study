@@ -61,6 +61,7 @@
 - [1753 : 최단경로](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1753.md)
 - [1916 : 최소비용 구하기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1916.md)
 - [10870 : 피보나치수 5](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10870.md)
+- [11725 : 트리의 부모 찾기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11725.md)
 
 </details>
 
