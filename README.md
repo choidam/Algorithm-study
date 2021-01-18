@@ -64,6 +64,7 @@
 - [11725 : 트리의 부모 찾기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11725.md)
 - [3055 : 탈출](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-3055.md)
 - [2589 : 보물섬](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2589.md)
+- [2839 : 설탕 배달](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2839.md)
 
 </details>
 
