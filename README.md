@@ -63,6 +63,7 @@
 - [10870 : 피보나치수 5](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10870.md)
 - [11725 : 트리의 부모 찾기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11725.md)
 - [3055 : 탈출](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-3055.md)
+- [2589 : 보물섬](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2589.md)
 
 </details>
 
