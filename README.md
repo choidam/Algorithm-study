@@ -67,6 +67,7 @@
 - [2839 : 설탕 배달](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2839.md)
 - [16236 : 아기 상어](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-16236.md)
 - [11052 : 카드 구매하기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11052.md)
+- [2798 : 블랙잭](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2798.md)
 
 </details>
 
