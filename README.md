@@ -68,6 +68,7 @@
 - [16236 : 아기 상어](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-16236.md)
 - [11052 : 카드 구매하기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-11052.md)
 - [2798 : 블랙잭](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2798.md)
+- [1937 : 욕심쟁이 판다](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1937.md)
 
 </details>
 
