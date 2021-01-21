@@ -70,6 +70,7 @@
 - [2798 : 블랙잭](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2798.md)
 - [1937 : 욕심쟁이 판다](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1937.md)
 - [2231 : 분해합](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2231.md)
+- [10451 : 순열 사이클](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10451.md)
 
 </details>
 
