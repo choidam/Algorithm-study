@@ -71,6 +71,7 @@
 - [1937 : 욕심쟁이 판다](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1937.md)
 - [2231 : 분해합](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2231.md)
 - [10451 : 순열 사이클](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10451.md)
+- [13460 : 구슬 탈출2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-13460.md)
 
 </details>
 
