@@ -72,6 +72,7 @@
 - [2231 : 분해합](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2231.md)
 - [10451 : 순열 사이클](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10451.md)
 - [13460 : 구슬 탈출2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-13460.md)
+- [1541 : 잃어버린 괄호](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1541.md)
 
 </details>
 
