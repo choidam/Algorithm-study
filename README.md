@@ -13,9 +13,9 @@
 
 <details>
   <summary> Baekjoon </summary>
- 
+
  <br/>
- 
+
 - [2178: 미로탐색](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2178.md)
 - [2667: 단지번호 붙이기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-2667.md)
 - [7576: 토마토](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/boj-7576.md)
@@ -73,14 +73,15 @@
 - [10451 : 순열 사이클](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-10451.md)
 - [13460 : 구슬 탈출2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-13460.md)
 - [1541 : 잃어버린 괄호](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1541.md)
+- [1167 : 트리의 지름](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1167.md)
 
 </details>
 
 <details>
   <summary> Programmers </summary>
- 
+
  <br/>
- 
+
 - [가운데 글자 가져오기](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12903.md)
 - [완주하지 못한 선수](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_42576.md)
 - [두 정수 사이의 합](https://github.com/ChoiEunji0114/Algorithm-study/blob/master/posts/programmers_12912.md)
