@@ -74,6 +74,7 @@
 - [13460 : 구슬 탈출2](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-13460.md)
 - [1541 : 잃어버린 괄호](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1541.md)
 - [1167 : 트리의 지름](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1167.md)
+- [2529 : 부등호](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2529.md)
 
 </details>
 
