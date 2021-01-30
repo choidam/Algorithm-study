@@ -76,6 +76,7 @@
 - [1167 : 트리의 지름](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1167.md)
 - [2529 : 부등호](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2529.md)
 - [1339 : 단어 수학](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1339.md)
+- [6603 : 로또](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-6603.md)
 
 </details>
 
