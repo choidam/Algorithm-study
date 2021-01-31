@@ -78,6 +78,7 @@
 - [1339 : 단어 수학](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-1339.md)
 - [6603 : 로또](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-6603.md)
 - [14225 : 부분 수열의 합](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-14225.md)
+- [14888 : 연산자 끼워넣기](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-14888.md)
 
 </details>
 
