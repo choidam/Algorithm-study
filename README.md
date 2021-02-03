@@ -82,6 +82,7 @@
 - [15658 : 연산자 끼워넣기(2)](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-15658.md)
 - [14500 : 테트로미노](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-14500.md)
 - [16197 : 두 동전](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-16197.md)
+- [9663 : N-Queen](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-9663.md)
 
 </details>
 
