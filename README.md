@@ -84,6 +84,7 @@
 - [16197 : 두 동전](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-16197.md)
 - [9663 : N-Queen](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-9663.md)
 - [2580 : 스도쿠](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-2580.md)
+- [16928 : 뱀과 사다리 문제](https://github.com/choidam/Algorithm-study/blob/master/posts/boj-16928.md)
 
 </details>
 
